@@ -1,0 +1,914 @@
+  {
+    "products" : [
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e16/e164245b8a4151114fff5a6e3ae2269e.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "1",
+          "price": "76740",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e00/e00ceacb7626bcb84ea02ac103de069e.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11300H 3100MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "62990",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f40/f40fc898087b10ab25d92f6bf3a0156f.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/512GB SSD/DVD не",
+          "availability": "0",
+          "price": "117790",
+          "colors": "background: url('/upload/uf/192/192987b80ee22bab2f9460daa7823866.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/0e2/0e2a743401d96df85e10073dec4ab99c.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/256GB SSD/DVD нет/",
+          "availability": "0",
+          "price": "110560",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f95/f953a8158b3a34c4d19934e91435866f.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/512GB SSD/DVD нет/",
+          "availability": "1",
+          "price": "115980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/a76/a762041877a2742163a8e08d9df93a8b.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 14 2021 (Intel Core i5 11300H 3100MHz/14/2560x1600/16G",
+          "availability": "0",
+          "price": "69990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5a3/5a391b8e887b8192071cf0a6c85137fa.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11320H 3300MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "68990",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/35e/35e008bbd6e75d45a8eb6eb801abdb32.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook Air 13\" (Intel Core i5 10210Y 1000MHz/13.3\"/2560x1600/16GB/5",
+          "availability": "0",
+          "price": "122430",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/d05/d05a9574ff77c1f4748a1bc47d504549.jpeg",
+          "name": "Ноутбук Lenovo IdeaPad Gaming 3 15IMH05 (81Y400YLRK) (Черный)",
+          "availability": "0",
+          "price": "59980",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e06/e06574f954b16b42a8326673b7028bc6.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 14\" Ryzen Edition (AMD Ryzen 7 3700U 2300MHz/14\"/1920x1080/1",
+          "availability": "0",
+          "price": "198650",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/c6b/c6b02986eac5313cf6efb3369afc2d36.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 12450H 2000MHz/14\"/16GB/512GB SSD/NVID",
+          "availability": "1",
+          "price": "78990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ab9/ab9dcc6139c81e1cd07bd852a136fadf.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/16GB/256GB SSD/DVD нет",
+          "availability": "0",
+          "price": "135980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/279/27963b0fe67d2c11e68594fb98f8e342.jpeg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 14 2021 (Intel Core i5 11300H 3100MHz/14/2560x1600/16G",
+          "availability": "1",
+          "price": "70980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e76/e76ddf65dcf341ba445126da439ce417.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 16\" (Intel Core i7 1065G7 1300MHz/16.1\"/1920x1080/16GB/512GB",
+          "availability": "0",
+          "price": "163950",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/aeb/aeb80975b32d52a5ed894ddc7127b170.jpeg",
+          "name": "Ноутбук HUAWEI MateBook D 15 BoB-WAI9 (15.6\", 1920x1080, Intel Core i3 2.1 ГГц, RAM 8",
+          "availability": "1",
+          "price": "48770",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/8a6/8a684bd0c01f627d510ac602ceecd42b.jpg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "0",
+          "price": "83990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/69b/69bb7060eaa2c8b716a35418e281e7a7.jpeg",
+          "name": "Ноутбук Lenovo IdeaPad Gaming 3 15IMH05 15.6\"(1920x1080, Intel Core i5 2.5 ГГц, RAM 8",
+          "availability": "0",
+          "price": "72890",
+          "colors": "background: url('/upload/uf/df3/df34cf2ed76bdfe76ac54261892f1192.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/61e/61e1ee19ecec51d0f3009d98ab15ddad.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6\" Enhanced Edition 2019 (Intel Core i7 10510U 1800",
+          "availability": "0",
+          "price": "198540",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/cf0/cf0041300c5ca9d5f6701b0c63276773.jpeg",
+          "name": "Ноутбук HONOR MagicBook X 15BBR-WAH9 (1920x1080, Intel Core i5 1.6 ГГц, RAM 8 ГБ, SSD",
+          "availability": "0",
+          "price": "48980",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5a0/5a0bd574a1f9d44c8de881814a358e85.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 1135G7 2400MHz/14\"/2560x1600/16GB/512G",
+          "availability": "0",
+          "price": "143290",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5d6/5d6101dc604f06fb22f32001f48278d0.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1 MHz/13.3\"/2560x1600/16GB/1TB SSD/DVD",
+          "availability": "0",
+          "price": "168780",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/373/373d55b62cd5d0369bd4e3e5d30f82eb.jpeg",
+          "name": "Ноутбук Xiaomi Redmi G 2021 (Intel Core i5 11260H 2600MHz/16.1\"/1920x1080/16Gb/512Gb ",
+          "availability": "1",
+          "price": "91490",
+          "colors": "background: url('/upload/uf/4c6/4c602ecfbe777f08b06c964075db6b96.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ed1/ed1b42f8a0ce14e69395d2324d99b0fd.png",
+          "name": "Ноутбук HONOR MagicBook Pro HYLR-WFQ9 (1920x1080, AMD Ryzen 5 3 ГГц, RAM 16 ГБ, SSD 5",
+          "availability": "0",
+          "price": "88980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/61c/61c8029cd5c2104567f25a700984544d.jpg",
+          "name": "Ноутбук ASUS VivoBook F413EA-EB228T (Intel Core i5 1135G7 2400MHz/14\"/1920x1080/8GB/5",
+          "availability": "0",
+          "price": "64990",
+          "colors": "background: url('/upload/uf/4c6/4c602ecfbe777f08b06c964075db6b96.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/0e2/0e2a743401d96df85e10073dec4ab99c.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/256GB SSD/DVD нет/",
+          "availability": "0",
+          "price": "110560",
+          "colors": "background: url('/upload/uf/b55/b551d188523c709d81d0eb0ceff97afc.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/0cb/0cb2e7af538d4e96e12ecead33034188.png",
+          "name": "Ноутбук HONOR MagicBook 15 2021BMH-WFQ9HN (15,6\", 1920x1080, AMD Ryzen 5 2.1 ГГц, RAM",
+          "availability": "0",
+          "price": "69980",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/14c/14c991805a07b446e6047b8cfd6f377e.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "0",
+          "price": "154980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ae9/ae90fd3c6ba302079b77f4b1ce10054c.jpeg",
+          "name": "Ноутбук Huawei MateBook 14S HKD-W76 53012LYV (Intel Core i7-11370H 3.3 GHz/16384Mb/51",
+          "availability": "0",
+          "price": "159980",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/568/568fae9171f9f1bb1e4081ee738a7b32.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15 (Intel Core i5 11320H 3200MHz/15.6\"/3456х2160/16GB/",
+          "availability": "1",
+          "price": "90990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/33a/33a5a05b6ee83fa2d4ff307ce96b14ba.jpeg",
+          "name": "Ноутбук Xiaomi Redmi G 2021 (AMD Ryzen 7 5800H 3200MHz/16.1\"/1920x1080/16Gb/512Gb SSD",
+          "availability": "1",
+          "price": "103980",
+          "colors": "background: url('/upload/uf/4c6/4c602ecfbe777f08b06c964075db6b96.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e7f/e7fe127facc099991c726946f702e3d8.jpg",
+          "name": "Ноутбук Apple Macbook Pro 14.2 Late 2021 (3024×1964, Apple M1 Pro, RAM 16 ГБ, SSD 1 Т",
+          "availability": "0",
+          "price": "179980",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/39a/39a339d8e71e53d2730fb7e854f0d179.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 16 Ryzen Edition 2020 (AMD Ryzen 7 4700U 2000 MHz/16.1\"/1920",
+          "availability": "0",
+          "price": "165940",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f92/f92e72cff81ee9bb8f5180488ab26e43.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (AMD Ryzen 7 5700U 1800MHz/14\"/2560x1600/16GB/512GB S",
+          "availability": "1",
+          "price": "72430",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/09e/09ef277d01872deba4711bcdf09a95dd.jpg",
+          "name": "Xiaomi Mi Notebook Pro 14 2021 (Mi Notebook Pro 14 i7 11390H 16/512GB/MX450 Silver) (",
+          "availability": "1",
+          "price": "113980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/4b3/4b3900d5a298d88e0280f8ad19a714bd.jpg",
+          "name": "Lenovo IdeaPad Gaming 3 15IMH05 (81Y400VFRU) (Intel Core i5 10300H 2500MHz/15.6\"/1920",
+          "availability": "0",
+          "price": "69430",
+          "colors": "background: url('/upload/uf/356/35684d784d3f49b2dfc774b2bfe8ec45.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/945/9453c63661cfc75fa492d73e83d9c4a8.jpg",
+          "name": "Ноутбук ASUS TUF Gaming FX505DT-HN450T (AMD Ryzen 5 3550H 2100MHz/15.6\"/1920x1080/8GB",
+          "availability": "0",
+          "price": "73990",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/c66/c6617a54d2647a286f2e647f461ca0d0.jpg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/512GB SSD/DVD не",
+          "availability": "0",
+          "price": "90990",
+          "colors": "background: url('/upload/uf/fcc/fcc31bb85c872acce5587c2ef5439c2e.jpeg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/3a3/3a3daf11e5c4b75b60c321dcc2eedec4.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15 (Intel Core i5-11300H/NVIDIA GeForce MX450 2GB GDDR",
+          "availability": "0",
+          "price": "92430",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f49/f49e54fc1dd3902dc78fc0bdef12e0af.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/256GB SSD/DVD нет/",
+          "availability": "1",
+          "price": "98980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f03/f0326f3c62670a19fe21663a2e19e8d0.jpg",
+          "name": "Ноутбук Apple Macbook Pro 16.2 Late 2021 (3456×2234, Apple M1 Pro, RAM 16 ГБ, SSD 1 Т",
+          "availability": "0",
+          "price": "252380",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/856/856b19fc5bdecab8658adf9d443ffd39.jpeg",
+          "name": "Ноутбук Lenovo IdeaPad L3 15ITL6 (1920x1080, Intel Celeron 1.8 ГГц, RAM 4 ГБ, SSD 256",
+          "availability": "0",
+          "price": "25990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5cf/5cf065eac3b42ae97af97bf76f35af78.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 13 (Intel Core i5 10210U 1600MHz/13.3\"/1920x1080/8GB/512GB S",
+          "availability": "1",
+          "price": "64990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f35/f35ae9e9ae084ffac5cc3d1d7bbf115f.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 1135G7 2400MHz/14\"/2560x1600/16GB/512G",
+          "availability": "0",
+          "price": "143950",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/07e/07e732d1dc0cf3b633f538d729d0ee10.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro X 15\" (Intel Core i5 11300H 3100MHz/15.6\"/3456x2160/16",
+          "availability": "0",
+          "price": "119980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/45e/45e552cd470e474cc521b46ed73d93bf.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1 3200MHz/13.3\"/2560x1600/16GB/512GB S",
+          "availability": "0",
+          "price": "147480",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/088/0889df1c3331429bd3fda191295fc2ad.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook 14 II Ryzen Edition 2020 (AMD Ryzen 5 4500U 2300 MHz/14\"/192",
+          "availability": "0",
+          "price": "164300",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/fe6/fe6ac7a25c5ad7d2e21192b1b85beaa6.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Air 12.5\" (Intel Core M3-8100Y 1100 MHz/12.5\"/1920x1080/4G",
+          "availability": "0",
+          "price": "122640",
+          "colors": "background: url('/upload/uf/fcc/fcc31bb85c872acce5587c2ef5439c2e.jpeg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/14c/14c991805a07b446e6047b8cfd6f377e.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "0",
+          "price": "154980",
+          "colors": "background: url('/upload/uf/fcc/fcc31bb85c872acce5587c2ef5439c2e.jpeg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/fd3/fd367958463051378774a1c8c80d198c.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6\" 2020 (Intel Core i5 10210U 1600MHz/15.6\"/1920x10",
+          "availability": "0",
+          "price": "69980",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/76b/76bb354430a2c079f59218b9e06a31c3.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 16\" II Ryzen Edition (AMD Ryzen 5 4500U 2300MHz/16\"/1920x108",
+          "availability": "0",
+          "price": "129540",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/a06/a063eb00ab60ea87a56af3818bd875d3.jpeg",
+          "name": "Ноутбук HUAWEI MateBook 16 CREM-WFD9 (2520x1680, AMD Ryzen 7 3.2 ГГц, RAM 16 ГБ, SSD ",
+          "availability": "0",
+          "price": "98980",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f1e/f1e9da18e633ef2c8cc0a7b814af759f.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i7 11370H 3300MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "89980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/407/407e5f0d51b960d928c40caad25f36bd.jpeg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 2021 (Intel Core i5 11300H 3100MHz/15.6/3456х2160",
+          "availability": "0",
+          "price": "88620",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/0e2/0e2a743401d96df85e10073dec4ab99c.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/256GB SSD/DVD нет/",
+          "availability": "0",
+          "price": "110560",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ab9/ab9dcc6139c81e1cd07bd852a136fadf.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/16GB/256GB SSD/DVD нет",
+          "availability": "0",
+          "price": "135980",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/a7b/a7bed16dd5f64c75eacfe242d462ea20.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11330H 3200MHz/14\"/16GB/512GB SSD/Inte",
+          "availability": "1",
+          "price": "79980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/343/34308ed00cc08eaa094ab4689ef2ef10.jpeg",
+          "name": "Ноутбук Huawei MateBook D 15 2021 BoB-WAH9Q (Intel Core i5-10210U 1.6GHz/15.6\"/1920x1",
+          "availability": "0",
+          "price": "59980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/9e9/9e99d2e204df6986b324a13e50b02f96.png",
+          "name": "Ноутбук HUAWEI MateBook 13 2020HN-W29R 13\" (2160x1440, AMD Ryzen 7 2.3 ГГц, RAM 16 ГБ",
+          "availability": "0",
+          "price": "108990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/3c7/3c7806685fbda347a9a00c86be229293.jpeg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 14 2021 (Intel Core i7 11370H 3300MHz/14/2560x1600/16G",
+          "availability": "1",
+          "price": "90490",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f3d/f3dee8c9748826cdaf7f5525a1d574c6.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6\" Enhanced Edition 2019 (Intel Core i5 10210U 1600",
+          "availability": "0",
+          "price": "145330",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/644/644758d27fc0ab8391fc4bf0bd6e3614.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i7 11390H 3400MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "93890",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5e6/5e6457316a371544f9338e9fa9af459f.jpg",
+          "name": "Ноутбук Apple Macbook Pro 16.2 Late 2021 (3456×2234, Apple M1 Pro, RAM 16 ГБ, SSD 512",
+          "availability": "1",
+          "price": "172970",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5e4/5e4d657fb44d4836245024b12718500e.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1 MHz/13.3\"/2560x1600/8GB/1000GB SSD/D",
+          "availability": "0",
+          "price": "140490",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e7f/e7fe127facc099991c726946f702e3d8.jpg",
+          "name": "Ноутбук Apple Macbook Pro 14.2 Late 2021 (3024×1964, Apple M1 Pro, RAM 16 ГБ, SSD 1 Т",
+          "availability": "0",
+          "price": "179980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/8a6/8a684bd0c01f627d510ac602ceecd42b.jpg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "0",
+          "price": "83990",
+          "colors": "background: url('/upload/uf/fcc/fcc31bb85c872acce5587c2ef5439c2e.jpeg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/fe4/fe4914133b7d2c1b5fa43ca59f73b5ab.jpg",
+          "name": "Ноутбук ASUS TUF Gaming F15 FX506LI-HN062T (Intel Core i5 10300H 2500MHz/15.6\"/1920x1",
+          "availability": "0",
+          "price": "79990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/601/6011207e41c63449cdf77e40b36f9755.jpeg",
+          "name": "Ноутбук HONOR MagicBook X 15BBR-WAI9 (1920x1080, Intel Core i3 2.1 ГГц, RAM 8 ГБ, SSD",
+          "availability": "0",
+          "price": "41490",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/1e5/1e5e05424f5c7f927a3554fa0115f387.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11320H 3300MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "68980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e16/e164245b8a4151114fff5a6e3ae2269e.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "1",
+          "price": "76740",
+          "colors": "background: url('/upload/uf/192/192987b80ee22bab2f9460daa7823866.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/a12/a12c8125bcb5b24d1fdd4d8c6267d45e.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 14\" II (Intel Core i5-1035G1 1000MHz/14\"/1920x1080/8GB/512GB",
+          "availability": "1",
+          "price": "69980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/489/489de11a909fcb511fc6e3e9926cbc71.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15\" 2021 (Intel Core i7 11370H 3300MHz/15.6\"/3456x2160",
+          "availability": "0",
+          "price": "108540",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/1cc/1ccdf08c83c8d0504648b753e0033514.jpg",
+          "name": "Ноутбук ASUS TUF Gaming A17 FX706II-AU038T (AMD Ryzen 5 4600H 3000MHz/17.3\"/1920x1080",
+          "availability": "0",
+          "price": "88990",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/140/1407a5f3542e48038019684f521520fc.jpeg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 2021 (AMD Ryzen 5 5600H 3300MHz/15.6/3456х2160/16",
+          "availability": "1",
+          "price": "79970",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5e6/5e6457316a371544f9338e9fa9af459f.jpg",
+          "name": "Ноутбук Apple Macbook Pro 16.2 Late 2021 (3456×2234, Apple M1 Pro, RAM 16 ГБ, SSD 512",
+          "availability": "1",
+          "price": "172970",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f40/f40fc898087b10ab25d92f6bf3a0156f.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/512GB SSD/DVD не",
+          "availability": "0",
+          "price": "117790",
+          "colors": "background: url('/upload/uf/b55/b551d188523c709d81d0eb0ceff97afc.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/07b/07b45a7437c2c1bb46a801d6bce9e543.jpg",
+          "name": "Ноутбук Acer ASPIRE 3 A317-32-P09J (NX.HF2ER.003) (RU/A)",
+          "availability": "0",
+          "price": "29990",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/533/533bf5a6a6b2bc376c77677225b2a148.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 13 Ryzen Edition 2020 (AMD Ryzen 5 4500U 2300MHz/13.3\"/1920x",
+          "availability": "0",
+          "price": "135430",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/b84/b84dfefcb43f5d39b1ffa28955299315.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 16\" 2020 Ryzen Edition (AMD Ryzen 5 4500U 2300 MHz/16\"/1920x",
+          "availability": "0",
+          "price": "243950",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e16/e164245b8a4151114fff5a6e3ae2269e.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "1",
+          "price": "76740",
+          "colors": "background: url('/upload/uf/b55/b551d188523c709d81d0eb0ceff97afc.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/b0a/b0ac5b1c5b2de2dc31d2799e31d3c1d8.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i7 1165G7 2800MHz/14\"/2560x1600/16GB/512G",
+          "availability": "0",
+          "price": "145880",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/6f8/6f84a60256679472827a3bc46a840f6d.jpeg",
+          "name": "Ноутбук Apple Macbook Pro 14.2 Late 2021 (3024×1964, Apple M1 Pro, RAM 16 ГБ, SSD 512",
+          "availability": "0",
+          "price": "163490",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/4b0/4b01c97704ee02abe4d664f22c2d7e9b.jpg",
+          "name": "Ноутбук Lenovo THINKPAD X1 Carbon Ultrabook (7th Gen) (Intel Core i5 8265U 1600 MHz/1",
+          "availability": "0",
+          "price": "122190",
+          "colors": "background: url('/upload/uf/9a3/9a349cade95fea809f4ccdcde3d09eb1.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/6f8/6f84a60256679472827a3bc46a840f6d.jpeg",
+          "name": "Ноутбук Apple Macbook Pro 14.2 Late 2021 (3024×1964, Apple M1 Pro, RAM 16 ГБ, SSD 512",
+          "availability": "0",
+          "price": "163490",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/637/6377be3abf792f1897d1076b81717116.jpeg",
+          "name": "Ноутбук Huawei MateBook 14 KLVL-W56W 53012NVL (AMD Ryzen 5 5500U 2.1 GHz/16384Mb/512G",
+          "availability": "0",
+          "price": "92990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/14c/14c991805a07b446e6047b8cfd6f377e.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "0",
+          "price": "154980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/af6/af6bd579e29335efc1c4410ee81c1feb.jpeg",
+          "name": "Ноутбук MagicBook Pro HBB-WAH9PHNL (Intel Core i5-10210U 1.6 GHz/16384Mb/512Gb SSD/nV",
+          "availability": "0",
+          "price": "66490",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/068/068c09614b45a4dbcd08f4921a2f6ea5.png",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/512GB SSD/DVD нет/",
+          "availability": "0",
+          "price": "154790",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/52c/52ce7bbf37aab2485b3e8d84f4c05e94.jpg",
+          "name": "Ноутбук HP 15s-fq2029ur 15.6\" (1920x1080, Intel Pentium Gold 2 ГГц, RAM 4 ГБ, SSD 256",
+          "availability": "0",
+          "price": "25980",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f49/f49e54fc1dd3902dc78fc0bdef12e0af.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/256GB SSD/DVD нет/",
+          "availability": "1",
+          "price": "98980",
+          "colors": "background: url('/upload/uf/b55/b551d188523c709d81d0eb0ceff97afc.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/632/632fb94d31ef1fe7c6cfadb2765c0a51.jpg",
+          "name": "Ноутбук Huawei MateBook D16 HVY-WAP9 53011SJJ (AMD Ryzen 5 4600H 3.0Ghz/16Gb/512Gb SS",
+          "availability": "0",
+          "price": "75890",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/971/9714e10a0e16a6bfc3c7092dd04793d9.png",
+          "name": "Ноутбук Huawei MateBook 14 KLVD-WFH9 53011PWA (Intel Core i5 1135G7 2.4Ghz/16384Mb/51",
+          "availability": "0",
+          "price": "111790",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/315/315d704091939f08e9c80dd060e1638e.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11320H 3200MHz/14\"/16GB/512GB SSD/NVID",
+          "availability": "1",
+          "price": "88520",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/0d6/0d680b62296a0159f3a7373028e7ee42.png",
+          "name": "Ноутбук HUAWEI MateBook D 14 2021 14\"(1920x1080, Intel Core i3 2.1 ГГц, RAM 8 ГБ, SSD",
+          "availability": "0",
+          "price": "52490",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f95/f953a8158b3a34c4d19934e91435866f.jpg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13\"/2560x1600/8GB/512GB SSD/DVD нет/",
+          "availability": "1",
+          "price": "115980",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/d8d/d8d1f567540cc64f03f89c21ec0d811b.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 2021 (Intel Core i7 11390H 3400MHz/15.6/3456х2160",
+          "availability": "1",
+          "price": "109980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/8a6/8a684bd0c01f627d510ac602ceecd42b.jpg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/256GB SSD/DVD не",
+          "availability": "0",
+          "price": "83990",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/2c4/2c4e9effe730163ef4c7aa8d1aac792a.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11300H 3100MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "64980",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/284/284e2ee4610f269586df817bc2948cb9.png",
+          "name": "Ноутбук Lenovo Legion 515ACH6 (1920x1080, AMD Ryzen 5 3.3 ГГц, RAM 8 ГБ, SSD 512 ГБ, ",
+          "availability": "0",
+          "price": "134980",
+          "colors": "background: url('/upload/uf/df3/df34cf2ed76bdfe76ac54261892f1192.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/d1b/d1ba3d681054a2dac7ca9edf8e1c9c4b.jpeg",
+          "name": "Ноутбук Huawei MateBook 14S HKD-W76 53012LYV (Intel Core i7-11370H 3.3 GHz/16384Mb/1 ",
+          "availability": "1",
+          "price": "137980",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/931/931dd10ae92cc8a0753332c96a4562b3.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 14 II Ryzen Edition 2020 (AMD Ryzen 7 4700U 2000 MHz/14\"/19",
+          "availability": "0",
+          "price": "186490",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/d23/d238d18555e34a1789c94e8f1f4eafcc.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 2021 (AMD Ryzen 7 5800H 3200MHz/15.6/3456х2160/16",
+          "availability": "1",
+          "price": "102980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/6db/6dba0593d89d294f8837ddd977b633d3.jpg",
+          "name": "Ноутбук Acer Aspire 3 A315-23G-R72P NX.HVRER.01C (AMD Athlon 3050U 2300MHz/8GB/500GB/",
+          "availability": "1",
+          "price": "38990",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/8d1/8d130ed957bc56273ee2608e41d67040.jpg",
+          "name": "Ноутбук Asus X515MA-BR414/Celeron N4020/4Gb/256Gb SSD/15.6\"HD/UMA/NoOS (Серый)",
+          "availability": "0",
+          "price": "34890",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/602/602ee05176090f96fbe9af18a897007e.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11320H 3300MHz/14\"/2560x1600/16GB/512G",
+          "availability": "1",
+          "price": "79980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/bb6/bb6cfe4ba7802b8c34fb8208d75bbe7b.jpeg",
+          "name": "Ноутбук Lenovo IdeaPad 317ADA05 (1600x900, AMD Ryzen 5 3500U 2.1 ГГц, RAM 8 ГБ, SSD 2",
+          "availability": "0",
+          "price": "65990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f40/f40fc898087b10ab25d92f6bf3a0156f.jpeg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/512GB SSD/DVD не",
+          "availability": "0",
+          "price": "117790",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/40f/40f4f8c81c4f584b5c1947026cb18307.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro X 15 (Intel Core i7 11370H 3300MHz/15.6\"/3456x2160/32G",
+          "availability": "1",
+          "price": "199980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/1c1/1c1df98c595ba7d50d1ee971b2a7d228.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 (Intel Core i5-11300H 3.1-4.4 ГГц/15.6/3456х2160/",
+          "availability": "1",
+          "price": "78990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/fba/fbac64b0e6ed1cb0387ddb0d5c52004d.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 2021 (Intel Core i5 11320H 3200MHz/15.6/3456х2160",
+          "availability": "0",
+          "price": "",
+          "colors": ""
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/141/1410fc6069cf56e0416b59105f8577ff.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i7 11390H 3400MHz/14\"/16GB/512GB SSD/NVID",
+          "availability": "1",
+          "price": "103440",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5e4/5e4d657fb44d4836245024b12718500e.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1 MHz/13.3\"/2560x1600/8GB/1000GB SSD/D",
+          "availability": "0",
+          "price": "140490",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/c66/c6617a54d2647a286f2e647f461ca0d0.jpg",
+          "name": "Ноутбук Apple MacBook Air 13 Late 2020 (Apple M1/13.3\"/2560x1600/8GB/512GB SSD/DVD не",
+          "availability": "0",
+          "price": "90990",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/2f3/2f3ae4148f6bb06d06304fa04c5f0454.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 12450H 2000MHz/14\"/16GB/512GB SSD/Inte",
+          "availability": "1",
+          "price": "78990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ed0/ed0b7e2dcea348111910030444e743f8.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook 14\" II (Intel Core i5-1035G1 1000MHz/14\"/1920x1080/16GB/512G",
+          "availability": "0",
+          "price": "138540",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/77c/77caef127afb25e6504e22612bcfaa29.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (AMD Ryzen 5 5500U 2100MHz/14\"/2560x1600/16GB/512GB S",
+          "availability": "1",
+          "price": "57490",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/324/3246d7e41f7e37e4b084ba140ec79f86.jpeg",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11320H 3200MHz/14\"/16GB/512GB SSD/NVID",
+          "availability": "1",
+          "price": "82330",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/5d6/5d6101dc604f06fb22f32001f48278d0.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1 MHz/13.3\"/2560x1600/16GB/1TB SSD/DVD",
+          "availability": "0",
+          "price": "168780",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/25f/25f58dd88f038e99dfc14b874d23a214.jpeg",
+          "name": "Ноутбук Apple MacBook Pro 13 Late 2020 (Apple M1/13.3\"/2560x1600/16GB/2TB SSD/Apple g",
+          "availability": "0",
+          "price": "189980",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/9e3/9e3b1f87cc04a29305358ed2677a19c6.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 14\" Enhanced Edition (Intel Core i7 10510U 1800 MHz/14\"/1920",
+          "availability": "0",
+          "price": "143095",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ecd/ecd56a5aad459a24ce9b4f6bfcf983ce.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6 GTX (Intel Core i5 8250U 1600 MHz/15.6\"/1920x1080",
+          "availability": "0",
+          "price": "188990",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/36b/36b46a9fa696fd03128715ff3793a2b6.png",
+          "name": "Ноутбук HONOR MagicBook X 14NBR-WAI9 (1920x1080, Intel Core i3 2.1 ГГц, RAM 8 ГБ, SSD",
+          "availability": "0",
+          "price": "47390",
+          "colors": "background: url('/upload/uf/550/550c9f07a3a7044c2e69477c488d2813.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/6d5/6d5a9d02945f4e13ae0f1ba09bfa7ed3.png",
+          "name": "Ноутбук Xiaomi RedmiBook Pro 14 (Intel Core i5 11320H 3300MHz/14\"/2560x1600/16GB/512",
+          "availability": "1",
+          "price": "79980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/ef3/ef3b4d01170815bb14d492c2c736340c.jpg",
+          "name": "Ноутбук Xiaomi RedmiBook 14 II Ryzen Edition 2020 (AMD Ryzen 5 4500U 2300 MHz/14\"/19",
+          "availability": "0",
+          "price": "165990",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/426/42664236bb6fa4232bb4669b3162a33e.jpg",
+          "name": "Ноутбук Xiaomi Redmi G Gaming (Intel Core i5 10200H 2400 MHz/16.1\"/1920x1080/16Gb/512",
+          "availability": "1",
+          "price": "87980",
+          "colors": "background: url('/upload/uf/d5e/d5e01d91f1373f9bf19318f5cb04a7f5.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/e42/e42d1a04da814cabe67f0e8378bf0d51.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro X 14 (Intel Core i7 11370H/14\"OLED/2560х1600/16Gb/512T",
+          "availability": "0",
+          "price": "109980",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/cb1/cb15f9b35f37ae2513c6bb631b7d2f0f.jpeg",
+          "name": "Ноутбук Irbis NB665 13.5\" (3000x2000, Intel Pentium 1.6 ГГц, RAM 4 ГБ, eMMC 128 ГБ, W",
+          "availability": "1",
+          "price": "14990",
+          "colors": "background: url('/upload/uf/1e9/1e98f903ca6222113a82ab7a5f8e491a.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/031/0315a9ee9e4af78e92c1a188c524cd2b.jpg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15.6\" 2020 (Intel Core i7 10510U 1800MHz/15.6\"/1920x10",
+          "availability": "0",
+          "price": "179960",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/f03/f0326f3c62670a19fe21663a2e19e8d0.jpg",
+          "name": "Ноутбук Apple Macbook Pro 16.2 Late 2021 (3456×2234, Apple M1 Pro, RAM 16 ГБ, SSD 1 Т",
+          "availability": "0",
+          "price": "252380",
+          "colors": "background: url('/upload/uf/46f/46f705a01592f3bcd08c6f5cca7ebb8c.jpg') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/66a/66a4c49cd2b5fbd462e9c29d84a72537.png",
+          "name": "Ноутбук Lenovo IdeaPad 114IGL05 14\" (1920x1080, Intel Celeron 1.1 ГГц, RAM 4 ГБ, SSD ",
+          "availability": "0",
+          "price": "26990",
+          "colors": "background: url('/upload/uf/5d7/5d7059a3d575c63a46b4d89ffaf0e8bd.png') 0 0 no-repeat; background-size: cover;"
+        },
+        {
+          "img-src": "https://wishmaster.me/upload/iblock/de3/de3059ccac717fd28f1aa0b8853c674f.jpeg",
+          "name": "Ноутбук Xiaomi Mi Notebook Pro 15 (Intel Core i5 11320H 3200MHz/15.6\"/3456х2160/16GB/",
+          "availability": "1",
+          "price": "94980",
+          "colors": "background: url('/upload/uf/a49/a49714e0f289a8a01f7de4cccbae8d05.jpg') 0 0 no-repeat; background-size: cover;"
+        }
+      ]
+    }
