@@ -7,6 +7,26 @@ const routes: RouteRecordRaw[] = [
     name: "Home",
     component: () => import("~/views/home/index.vue"),
   },
+  {
+    path: "/catalog",
+    name: "Products",
+    component: () => import("~/views/catalog/index.vue"),
+  },
+  {
+    path: "/category/:category",
+    name: "Category",
+    component: () => import("~/views/category/index.vue"),
+  },
+  {
+    path: "/card",
+    name: "Card",
+    component: () => import("~/views/card/index.vue"),
+  },
+  {
+    path: "/favorites",
+    name: "Favorites",
+    component: () => import("~/views/favorites/index.vue"),
+  },
 ];
 
 const index = createRouter({

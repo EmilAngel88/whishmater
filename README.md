@@ -1,15 +1,10 @@
 <div align='center'>
-<h1>Vite-Boot </h1>
-<img src='README.assets/vite-vue-tailwind.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
 </div>
 
 <p align='center'>
-Mocking up web app with <b>Vite-Boot </b><sup><em>(speed)</em></sup><br>
+Интернет магазин по продаже <b>Vite-Boot </b><sup><em>техники</em></sup><br>
 </p>
 
-<div align='center'>
-<b>English</b> | <a href="README.zh-CN.md">简体中文</a>
-</div>
 
 ## Features
 
@@ -85,25 +80,15 @@ Mocking up web app with <b>Vite-Boot </b><sup><em>(speed)</em></sup><br>
  
 ```
 
-## Try it now!
 
-### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/kirklin/vite-boot/generate).
 
-### Clone to local
-
-```bash
-npx degit kirklin/vite-boot my-vite-app
-cd my-vite-app
-pnpm i
-```
 
 ## Usage
 
 ### Development
 
-Just run and visit http://localhost:8888
+Запустить и перейти по: http://localhost:8888
 
 ```bash
 pnpm run dev
